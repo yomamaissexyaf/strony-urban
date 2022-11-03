@@ -2,7 +2,7 @@ body{
     background-color: rgb(10, 3, 4);
 }
 #header {
-    border: 10px dashed rgb(255, 207, 217);
+    border: 10px dashed rgb(10, 3, 4);
     text-align: center;
     font-size: x-large;
     border-radius: 25px;
@@ -12,6 +12,7 @@ body{
 }
 
 #body1 {
+
     border-radius: 25px;
     float: left;
     margin-top: 20px;
@@ -20,9 +21,10 @@ body{
     height: 400px;
     background-color: rgb(252, 58, 100);
     word-wrap: break-word;
-    
+
 
 }
+
 #body2 {
     margin-left: 4%;
     border-radius: 25px;
@@ -36,11 +38,24 @@ body{
     }
 
   #stupki {    
+    padding-bottom: 20px;
     text-align: center;
   border-radius: 25px;
    clear: both;
    width: auto;
-   height: 70px;
-   border: 10px dashed rgb(255, 207, 217);
+   height: auto;
+   border: 10px dashed rgb(10, 3, 4);
   background-color: rgb(252, 58, 100);
+    }
+  #haslo {
+    
+     margin-top: 10px;
+      text-align: center;
+      border-radius: 25px;
+       clear: both;
+       width: auto;
+       height: auto;
+       border: 3px dashed rgb(0, 0, 0);
+      background-color: rgb(68, 59, 61);
+ 
     }

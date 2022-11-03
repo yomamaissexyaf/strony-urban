@@ -1,0 +1,53 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#lewy{
+background-color: aquamarine;
+color: white;
+width: 25%;
+height: 80px;
+}
+#prawy{
+    background-color: aquamarine;
+    color: white;
+    width: 25%;
+    height: 80px;
+}
+#srodkowy{
+    background-color: aquamarine;
+    color: white;
+    width: 50%;
+    height: 80px;
+    text-align: center;
+}
+#glowny{
+    background-color: rgb(65, 75, 71);
+    margin: 40px;
+}
+#lewy2{
+    width: 50%;
+    height:200px;
+    background-color: blueviolet;
+    text-align: center;
+}
+#prawy2{
+    width: 50%;
+    height:200px;
+    background-color: blueviolet;
+    text-align: center;
+}
+#stopka{
+    background-color: darkblue;
+}
+table{
+    border-style: 1px solid blue;
+    width: 100%;
+}
+td{
+    border-style: 1px solid blue;
+}
+tr{
+    border-style: 1px solid blue;
+    background-color: blue;
+}

@@ -1,0 +1,49 @@
+body{
+background-color: rgb(255, 255, 255);
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+}
+
+#header{
+width: auto;
+height: auto;
+background-color: rgb(196, 196, 196);
+
+
+}
+#plus{ 
+    background-color: aqua;
+    text-align: center;
+
+}
+#gluwna{
+margin-top: 10px;
+height: 500px;
+width: 70%;
+background-color: rgb(133, 133, 133);
+float: left;
+}
+
+#gluwna-poboczna{
+    margin-top: 10px;
+    height: 500px;
+    width: 30%;
+    background-color: rgb(109, 109, 109);
+    float: left;
+    margin-bottom: 10px;
+}
+
+#stopki{
+clear: both;
+background-color: rgb(87, 87, 87);
+width: auto;
+height: 100px;
+}
+
+#dol{
+
+background-color: rgb(44, 44, 44);
+width: auto;
+height: 20px;
+
+}
